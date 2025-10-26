@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01b94991-3135-47a5-828c-d41144cea7e5</dc:identifier>
+        <dc:title>Bonds of Blood</dc:title>
+        <dc:creator opf:file-as="No idea" opf:role="aut">No idea</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2025-10-26T18:32:59.632528+00:00"/>
+        <meta name="calibre:title_sort" content="Bonds of Blood"/>
+    </metadata>
+    <guide/>
+</package>
